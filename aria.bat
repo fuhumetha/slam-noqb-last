@@ -1,0 +1,1 @@
+aria2c --enable-rpc --max-connection-per-server=10 --bt-tracker="[$tracker_list]" --follow-torrent=mem --max-concurrent-downloads=$MAX_CONCURRENT_DOWNLOADS --max-tries=20 --auto-file-renaming=true --netrc-path=/usr/src/app/.netrc
