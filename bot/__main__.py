@@ -163,7 +163,6 @@ botcmds = [
         (f'{BotCommands.TarMirrorCommand}','Start mirroring and upload as .tar'),
         (f'{BotCommands.UnzipMirrorCommand}','Extract files'),
         (f'{BotCommands.CloneCommand}','Copy file/folder to Drive'),
-        (f'{BotCommands.CountCommand}','Count file/folder of Drive link'),
         (f'{BotCommands.DeleteCommand}','Delete file from Drive'),
         (f'{BotCommands.CancelMirror}','Cancel a task'),
         (f'{BotCommands.CancelAllCommand}','Cancel all tasks'),
