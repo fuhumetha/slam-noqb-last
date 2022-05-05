@@ -20,8 +20,6 @@ python-dotenv
 python-magic
 python-telegram-bot
 requests
-speedtest-cli
 telegraph
 tenacity
 TgCrypto
-youtube_dl
